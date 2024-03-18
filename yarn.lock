@@ -1032,14 +1032,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vanilla-extract/vite-plugin@npm:^4.0.4":
-  version: 4.0.4
-  resolution: "@vanilla-extract/vite-plugin@npm:4.0.4"
+"@vanilla-extract/vite-plugin@npm:^4.0.6":
+  version: 4.0.6
+  resolution: "@vanilla-extract/vite-plugin@npm:4.0.6"
   dependencies:
     "@vanilla-extract/integration": "npm:^7.1.0"
   peerDependencies:
     vite: ^4.0.3 || ^5.0.0
-  checksum: a09ba4d4b9e9cfa7e397e230024789f091d4ddd81f8b541902152765482402290d96e49e38c80e94f7a3b76d6e172a487b0aa0cd9a37d459baeadfd3e7e38e09
+  checksum: 824e408a8bbdd057ff83616f6f252ef3132b9367766b091c105712b3bf2289f2f46b6530a09c5a8e6c3b9831734e949d14fa5d854fc82f7e6bb9cf70c8466b8b
   languageName: node
   linkType: hard
 
@@ -2693,7 +2693,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": "npm:^7.0.2"
     "@typescript-eslint/parser": "npm:^7.0.2"
     "@vanilla-extract/css": "npm:^1.14.1"
-    "@vanilla-extract/vite-plugin": "npm:^4.0.4"
+    "@vanilla-extract/vite-plugin": "npm:^4.0.6"
     "@vitejs/plugin-react": "npm:^4.2.1"
     eslint: "npm:^8.56.0"
     eslint-plugin-react-hooks: "npm:^4.6.0"
